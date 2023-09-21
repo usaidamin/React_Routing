@@ -1,0 +1,28 @@
+.body{
+    background-color: #d3d3d3;
+    border: 2px solid #000;
+    margin-top: 0.1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hero_section {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Features section styling */
+  .features_section {
+    padding: 3rem 0;
+  }
+  
+  .feature-card {
+    margin: 1rem;
+  }
+  
+  /* Footer styling */
+  .footer {
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+    text-align: center;
+  }
